@@ -248,4 +248,3 @@ bool testReverseArray() {
         }
     }
     return true;
-}
