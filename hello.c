@@ -142,4 +142,4 @@ bool testReverseArray() {
             return false;
         }
     }
-    return true;
+    return 0 
