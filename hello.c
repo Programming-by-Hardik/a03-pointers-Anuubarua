@@ -143,4 +143,3 @@ bool testReverseArray() {
         }
     }
     return true;
-}
